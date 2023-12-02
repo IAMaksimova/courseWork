@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/courseWork/static/css/main.f855e6bc.css",
+    "main.js": "/courseWork/static/js/main.be5e7da3.js",
+    "static/js/787.435602cf.chunk.js": "/courseWork/static/js/787.435602cf.chunk.js",
+    "static/media/house5.webp": "/courseWork/static/media/house5.df9a493991e193b04ef3.webp",
+    "static/media/house2end.webp": "/courseWork/static/media/house2end.6f4f1e1451c732cbd4cb.webp",
+    "static/media/house6.webp": "/courseWork/static/media/house6.d5d6dbd05e1709632201.webp",
+    "static/media/house4fin.webp": "/courseWork/static/media/house4fin.871dabf4c803baaa1d03.webp",
+    "static/media/house1fin.webp": "/courseWork/static/media/house1fin.18f2ff7f1dab622d5aa6.webp",
+    "static/media/test.jpg": "/courseWork/static/media/test.d4842af787cc9a93efb3.jpg",
+    "static/media/mainHome.jpg": "/courseWork/static/media/mainHome.98bd8082e1da399a3117.jpg",
+    "static/media/house3fin.webp": "/courseWork/static/media/house3fin.939abf380f5ea3b4d472.webp",
+    "static/media/house2.webp": "/courseWork/static/media/house2.02e0291845f7e51b3725.webp",
+    "static/media/map.webp": "/courseWork/static/media/map.7c68763f15dcbd7591ae.webp",
+    "static/media/house3.webp": "/courseWork/static/media/house3.574e208e6d8953d0f43b.webp",
+    "static/media/house.webp": "/courseWork/static/media/house.3715b45adb1752d42edc.webp",
+    "static/media/house1.webp": "/courseWork/static/media/house1.4dc9b42aad65438e6006.webp",
+    "index.html": "/courseWork/index.html",
+    "main.f855e6bc.css.map": "/courseWork/static/css/main.f855e6bc.css.map",
+    "main.be5e7da3.js.map": "/courseWork/static/js/main.be5e7da3.js.map",
+    "787.435602cf.chunk.js.map": "/courseWork/static/js/787.435602cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.be5e7da3.js"
+  ]
+}
